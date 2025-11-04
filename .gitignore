@@ -18,3 +18,6 @@ Thumbs.db
 
 # Archivos de Colab descargados
 *.ipynb_checkpoints/
+# Archivos de modelos pesados (no se suben por límite de GitHub 100MB)
+modelo/modelo_random_forest_enriquecido.pkl
+modelo/modelo_random_forest_ajustado.pkl
