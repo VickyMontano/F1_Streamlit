@@ -1,0 +1,6 @@
+Evento,Fecha,Driver_real,LapTime_real,Driver_predicho,LapTime_predicho,longitud_km,Team,Compound,Rainfall,Continente
+Australian Grand Prix,2023-04-02,PER,80.235,VER,85.7834170160534,5.278,Red Bull Racing,HARD,False,Oceanía
+Belgian Grand Prix,2023-07-30,HAM,107.305,TSU,108.35392347222222,7.004,AlphaTauri,MEDIUM,False,Europa
+British Grand Prix,2023-07-09,VER,90.275,LEC,109.33922741666669,5.891,Ferrari,HARD,False,Europa
+Monaco Grand Prix,2023-05-28,HAM,75.65,HUL,88.60451191233764,3.337,Haas F1 Team,HARD,False,Europa
+São Paulo Grand Prix,2023-11-05,NOR,72.486,TSU,75.41056762603175,4.309,AlphaTauri,SOFT,False,América
